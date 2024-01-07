@@ -10,4 +10,4 @@ Instructions:
 3. In the index.js file, you will find the main code implementation, including SQL queries and JavaScript for data analysis.
 4. To run the code, open the terminal and execute the command node index.js.
 Important Note:
-Ensure that you have a GitHub account to implement and run the code in the provided sandbox. Feel free to reach out for any questions or queries. You can connect with the developer, Pradeep Sajnani, at pradeepsajnani742@gmail.com. Thank you!
+Ensure that you have a GitHub account to implement and run the code in the provided sandbox. Feel free to reach out for any questions or queries. You can connect with me , Pradeep Sajnani, at pradeepsajnani742@gmail.com. Thank you!
